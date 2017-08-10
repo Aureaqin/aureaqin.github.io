@@ -1,2 +1,2 @@
-# aureaqin.github.io
-My Own Blog
+# Welcome to My GitHub Pages
+
